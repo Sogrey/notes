@@ -26,7 +26,7 @@
 |Android-SwitchIcon|[Github](https://github.com/zagum/Android-SwitchIcon)| |<center><img src="https://github.com/zagum/Android-SwitchIcon" width="25%"/></center>|
 |ShimmerRecyclerView|[Github](https://github.com/sharish/ShimmerRecyclerView)| |<center><img src="https://github.com/sharish/ShimmerRecyclerView/raw/master/screenshots/list_demo.gif" width="25%"/></center><center><img src="https://github.com/sharish/ShimmerRecyclerView/raw/master/screenshots/grid_demo.gif" width="25%"/></center>|
 |CameraFragment|[Github](https://github.com/florent37/CameraFragment)| |<center><img src="https://raw.githubusercontent.com/florent37/CameraFragment/master/media/sample.png" width="25%"/></center>|
-|Horizontal-Calendar|[Github](https://github.com/Mulham-Raee/Horizontal-Calendar)| |<center><img src="https://github.com/Mulham-Raee/Horizontal-Calendar" width="25%"/></center>|
+|Horizontal-Calendar|[Github](https://github.com/Mulham-Raee/Horizontal-Calendar)| |<center><img src="https://github.com/Mulham-Raee/Horizontal-Calendar/raw/master/art/demo.gif" width="25%"/></center>|
 |excelPanel|[Github](https://github.com/zhouchaoyuan/excelPanel)| |<center><img src="https://raw.githubusercontent.com/zhouchaoyuan/excelPanel/master/app/src/main/assets/roomFormDemo.gif" width="25%"/></center><center><img src="https://raw.githubusercontent.com/zhouchaoyuan/excelPanel/master/app/src/main/assets/roomFormDemoAdjustHeight.gif" width="25%"/></center>|
 |CoordinatorTabLayout|[Github](https://github.com/hugeterry/CoordinatorTabLayout)| |<center><img src="https://github.com/hugeterry/CoordinatorTabLayout/raw/master/showUI/show1.gif" width="25%"/></center><center><img src="https://github.com/hugeterry/CoordinatorTabLayout/raw/master/showUI/show3.gif" width="25%"/></center>|
 |PreviewSeekBar|[Github](https://github.com/rubensousa/PreviewSeekBar)| |<center><img src="https://github.com/rubensousa/PreviewSeekBar/raw/master/screenshots/playmovies.gif" width="50%"/></center><center><img src="https://github.com/rubensousa/PreviewSeekBar/raw/master/screenshots/sample.gif" width="25%"/></center>|
@@ -35,8 +35,6 @@
 |MaterialAbout|[Github](https://github.com/jrvansuita/MaterialAbout)| |<center><img src="https://github.com/jrvansuita/MaterialAbout/raw/master/images/screenshots/dark.jpg" width="25%"/></center><center><img src="https://github.com/jrvansuita/MaterialAbout/raw/master/images/screenshots/light.jpg" width="25%"/></center>|
 |Shortbread|[Github](https://github.com/MatthiasRobbers/shortbread)| |<center><img src="https://github.com/MatthiasRobbers/shortbread/raw/master/sample.png" width="25%"/></center>|
 |ason|[Github](https://github.com/afollestad/ason)| | |
-
-
 |name|[Github](github)| |<center><img src="" width="25%"/></center><center><img src="" width="25%"/></center><center><img src="" width="25%"/></center><center><img src="" width="25%"/></center>|
 |library name|website|describe|preview|
 
