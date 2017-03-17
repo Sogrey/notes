@@ -35,6 +35,8 @@
 |MaterialAbout|[Github](https://github.com/jrvansuita/MaterialAbout)| |<center><img src="https://github.com/jrvansuita/MaterialAbout/raw/master/images/screenshots/dark.jpg" width="25%"/></center><center><img src="https://github.com/jrvansuita/MaterialAbout/raw/master/images/screenshots/light.jpg" width="25%"/></center>|
 |Shortbread|[Github](https://github.com/MatthiasRobbers/shortbread)| |<center><img src="https://github.com/MatthiasRobbers/shortbread/raw/master/sample.png" width="25%"/></center>|
 |ason|[Github](https://github.com/afollestad/ason)| | |
+|FancyDialog|[Github](https://github.com/geniusforapp/fancyDialog)| |<center><img src="https://raw.githubusercontent.com/ahmadnajar10/fancyDialog/master/device-2017-03-08-171007.png" width="50%"/></center>|
+|StatusLayout|[Github](https://github.com/chenpengfei88/StatusLayout)| 让你的布局飞起来|<center><img src="https://github.com/chenpengfei88/StatusLayout/raw/master/app/src/main/res/drawable/hao.gif" width="50%"/></center>|
 |name|[Github](github)| |<center><img src="" width="25%"/></center><center><img src="" width="25%"/></center><center><img src="" width="25%"/></center><center><img src="" width="25%"/></center>|
 |library name|website|describe|preview|
 
