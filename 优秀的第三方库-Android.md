@@ -39,6 +39,12 @@
 |StatusLayout|[Github](https://github.com/chenpengfei88/StatusLayout)| 让你的布局飞起来|<center><img src="https://github.com/chenpengfei88/StatusLayout/raw/master/app/src/main/res/drawable/hao.gif" width="50%"/></center>|
 |uCrop|[Github](https://github.com/Yalantis/uCrop)|强大的图片裁剪库|<center><img src="https://github.com/Yalantis/uCrop/blob/master/preview.gif?raw=true" width="50%"/></center>|
 |AndroidUtilCode|[Github](https://github.com/Blankj/AndroidUtilCode)|开发人员不得不收集的工具类 | |
+|WaveSideBar|[Github](https://github.com/Solartisan/WaveSideBar)| |<center><img src="https://github.com/Solartisan/WaveSideBar/raw/master/preview/simple.gif" width="25%"/></center>|
+|EasyForm|[Github](https://github.com/emmasuzuki/EasyForm)| |<center><img src="https://raw.githubusercontent.com/emmasuzuki/EasyForm/master/demo1.gif" width="25%"/></center><center><img src="https://raw.githubusercontent.com/emmasuzuki/EasyForm/master/demo2.gif" width="25%"/></center>|
+|fab-speed-dial|[Github](https://github.com/yavski/fab-speed-dial)| |<center><img src="https://camo.githubusercontent.com/67f8b636d4cd6ee1dfcb8e4c68d2f04ad3ce8560/687474703a2f2f796176736b692e6769746875622e696f2f6661622d73706565642d6469616c2f73616d706c652d30312e676966" width="25%"/></center>|
+|FloatViewFinal|[Github](https://github.com/pengjianbo/FloatViewFinal)| |<center><img src="https://github.com/pengjianbo/FloatViewFinal/raw/master/images/screenshot0.png" width="25%"/></center>|
+|Space-Navigation-View|[Github](https://github.com/armcha/Space-Navigation-View)| |<center><img src="https://github.com/armcha/Space-Navigation-View/raw/master/screens/mainGif.gif" width="25%"/></center><center><img src="https://github.com/armcha/Space-Navigation-View/raw/master/screens/screen4.png" width="25%"/></center><center><img src="https://github.com/armcha/Space-Navigation-View/raw/master/screens/screen4.png" width="25%"/></center><center><img src="https://github.com/armcha/Space-Navigation-View/raw/master/screens/screen4.png" width="25%"/></center>|
+|ExoPlayer|[Github](https://github.com/google/ExoPlayer)| | |
 |name|[Github](github)| |<center><img src="" width="25%"/></center><center><img src="" width="25%"/></center><center><img src="" width="25%"/></center><center><img src="" width="25%"/></center>|
 |library name|website|describe|preview|
 
