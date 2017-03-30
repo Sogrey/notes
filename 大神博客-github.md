@@ -2,5 +2,5 @@
 
 |name|website|excellent library|
 |:--:|:-----:|:---------------:|
-|Cleveroad Inc.|[Github](https://github.com/Cleveroad)|- [AdaptiveTableLayout](https://github.com/Cleveroad/AdaptiveTableLayout) - [SlidingTutorial-Android](https://github.com/Cleveroad/SlidingTutorial-Android) - [PlayWidget](https://github.com/Cleveroad/PlayWidget) - [CycleMenu](https://github.com/Cleveroad/CycleMenu) - [WaveInApp](https://github.com/Cleveroad/WaveInApp) - [WaveInApp](https://github.com/Cleveroad/WaveInApp)|
+|Cleveroad Inc.|[Github](https://github.com/Cleveroad)|- [AdaptiveTableLayout](https://github.com/Cleveroad/AdaptiveTableLayout)<br> - [SlidingTutorial-Android](https://github.com/Cleveroad/SlidingTutorial-Android)<br>- [PlayWidget](https://github.com/Cleveroad/PlayWidget)<br>- [CycleMenu](https://github.com/Cleveroad/CycleMenu)<br>- [WaveInApp](https://github.com/Cleveroad/WaveInApp)<br>- [WaveInApp](https://github.com/Cleveroad/WaveInApp)|
 
