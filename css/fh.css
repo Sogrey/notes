@@ -1,0 +1,320 @@
+@charset "utf-8";
+
+ul li{list-style: none;}
+code {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #c7254e;
+    white-space: nowrap;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+    margin-left: 20px;
+}
+li.s-21E0:before{content: '\21E0';}
+li.s-21E2:before{content: '\21E2';}
+li.s-21E2:before{content: '\21E2';}
+li.s-21E3:before{content: '\21E3';}
+li.s-219E:before{content: '\219E';}
+li.s-21A0:before{content: '\21A0';}
+li.s-219F:before{content: '\219F';}
+li.s-21A1:before{content: '\21A1';}
+li.s-2190:before{content: '\2190';}
+li.s-2192:before{content: '\2192';}
+li.s-2191:before{content: '\2191';}
+li.s-2193:before{content: '\2193';}
+li.s-2194:before{content: '\2194';}
+li.s-2195:before{content: '\2195';}
+li.s-21C4:before{content: '\21C4';}
+li.s-21C5:before{content: '\21C5';}
+li.s-21A2:before{content: '\21A2';}
+li.s-21A3:before{content: '\21A3';}
+li.s-21DE:before{content: '\21DE';}
+li.s-21DF:before{content: '\21DF';}
+li.s-21AB:before{content: '\21AB';}
+li.s-21AC:before{content: '\21AC';}
+li.s-21DC:before{content: '\21DC';}
+li.s-21DD:before{content: '\21DD';}
+li.s-219A:before{content: '\219A';}
+li.s-219B:before{content: '\219B';}
+li.s-21AE:before{content: '\21AE';}
+li.s-21AD:before{content: '\21AD';}
+
+li.s-21E6:before{content: '\21E6';}
+li.s-21E8:before{content: '\21E8';}
+li.s-21E7:before{content: '\21E7';}
+li.s-21E9:before{content: '\21E9';}
+li.s-21B7:before{content: '\21B7';}
+li.s-21B6:before{content: '\21B6';}
+li.s-21BB:before{content: '\21BB';}
+li.s-21BA:before{content: '\21BA';}
+li.s-27F3:before{content: '\27F3';}
+li.s-27F2:before{content: '\27F2';}
+li.s-27F0:before{content: '\27F0';}
+li.s-27F1:before{content: '\27F1';}
+li.s-21B5:before{content: '\21B5';}
+li.s-21AF:before{content: '\21AF';}
+li.s-21F5:before{content: '\21F5';}
+
+li.s-2794:before{content: '\2794';}
+li.s-2799:before{content: '\2799';}
+li.s-27A8:before{content: '\27A8';}
+li.s-27B2:before{content: '\27B2';}
+li.s-279C:before{content: '\279C';}
+li.s-279E:before{content: '\279E';}
+li.s-279F:before{content: '\279F';}
+li.s-27A0:before{content: '\27A0';}
+li.s-27A4:before{content: '\27A4';}
+li.s-27A5:before{content: '\27A5';}
+li.s-27A6:before{content: '\27A6';}
+li.s-27A7:before{content: '\27A7';}
+li.s-27B5:before{content: '\27B5';}
+li.s-27B8:before{content: '\27B8';}
+li.s-27BC:before{content: '\27BC';}
+li.s-27BD:before{content: '\27BD';}
+li.s-27BA:before{content: '\27BA';}
+li.s-27B3:before{content: '\27B3';}
+li.s-27BE:before{content: '\27BE';}
+
+
+li.s-25B2 :before{content: '\25B2 ';}
+li.s-25BA :before{content: '\25BA ';}
+li.s-25BC :before{content: '\25BC ';}
+li.s-25C4 :before{content: '\25C4 ';}
+li.s-2764:before{content: '\2764';}
+li.s-2708:before{content: '\2708';}
+li.s-2605:before{content: '\2605';}
+li.s-2726:before{content: '\2726';}
+li.s-2600:before{content: '\2600';}
+li.s-25C6 :before{content: '\25C6 ';}
+li.s-25C8 :before{content: '\25C8 ';}
+li.s-25A3 :before{content: '\25A3 ';}
+
+li.s-00AB :before{content: '\00AB ';}
+li.s-00BB :before{content: '\00BB ';}
+li.s-008B :before{content: '\008B ';}
+li.s-009B :before{content: '\009B ';}
+li.s-201C :before{content: '\201C ';}
+li.s-201D :before{content: '\201D ';}
+li.s-2018:before{content: '\2018';}
+li.s-2019:before{content: '\2019';}
+li.s-2022:before{content: '\2022';}
+li.s-25E6:before{content: '\25E6';}
+li.s-00A1 :before{content: '\00A1 ';}
+li.s-00BF :before{content: '\00BF ';}
+li.s-2105:before{content: '\2105';}
+li.s-2116:before{content: '\2116';}
+li.s-26:before{content: '\26';}
+li.s-40:before{content: '\40';}
+li.s-211E :before{content: '\211E ';}
+li.s-2103:before{content: '\2103';}
+li.s-2109:before{content: '\2109';}
+li.s-00B0 :before{content: '\00B0 ';}
+li.s-007C :before{content: '\007C ';}
+li.s-00A6 :before{content: '\00A6 ';}
+li.s-2013:before{content: '\2013';}
+li.s-2014:before{content: '\2014';}
+li.s-2026:before{content: '\2026';}
+li.s-00B6 :before{content: '\00B6 ';}
+li.s-223C :before{content: '\223C ';}
+li.s-2260:before{content: '\2260';}
+
+li.s-00AE :before{content: '\00AE ';}
+li.s-00A9 :before{content: '\00A9 ';}
+li.s-2117:before{content: '\2117';}
+li.s-99:before{content: '\99';}
+li.s-2120:before{content: '\2120';}
+
+li.s-0024:before{content: '\0024';}
+li.s-00A2:before{content: '\00A2';}
+li.s-00A3:before{content: '\00A3';}
+li.s-00A4:before{content: '\00A4';}
+li.s-20AC:before{content: '\20AC';}
+li.s-00A5:before{content: '\00A5';}
+li.s-20B1:before{content: '\20B1';}
+li.s-20B9:before{content: '\20B9';}
+
+li.s-00BD:before{content: '\00BD';}
+li.s-00BC:before{content: '\00BC';}
+li.s-00BE:before{content: '\00BE';}
+li.s-2153:before{content: '\2153';}
+li.s-2154:before{content: '\2154';}
+li.s-215B:before{content: '\215B';}
+li.s-215C:before{content: '\215C';}
+li.s-215D:before{content: '\215D';}
+li.s-2030:before{content: '\2030';}
+li.s-0025:before{content: '\0025';}
+li.s-003C:before{content: '\003C';}
+li.s-003E:before{content: '\003E';}
+
+li.s-2669:before{content: '\2669';}
+li.s-266A:before{content: '\266A';}
+li.s-266B:before{content: '\266B';}
+li.s-266C:before{content: '\266C';}
+li.s-266D:before{content: '\266D';}
+li.s-266F:before{content: '\266F';}
+
+li.s-00A0:before{content: '\00A0';}
+li.s-2610:before{content: '\2610';}
+li.s-2611:before{content: '\2611';}
+li.s-2612:before{content: '\2612';}
+li.s-2713:before{content: '\2713';}
+li.s-2714:before{content: '\2714';}
+li.s-10005:before{content: '\10005';}
+li.s-2716:before{content: '\2716';}
+li.s-2717:before{content: '\2717';}
+li.s-2718:before{content: '\2718';}
+
+li.s-2628:before{content: '\2628';}
+li.s-2629:before{content: '\2629';}
+li.s-271D:before{content: '\271D';}
+li.s-271E:before{content: '\271E';}
+li.s-271F:before{content: '\271F';}
+li.s-2720:before{content: '\2720';}
+li.s-271A:before{content: '\271A';}
+li.s-2020:before{content: '\2020';}
+li.s-2722:before{content: '\2722';}
+li.s-2724:before{content: '\2724';}
+li.s-2723:before{content: '\2723';}
+li.s-2725:before{content: '\2725';}
+
+li.s-2605:before{content: '\2605';}
+li.s-272D:before{content: '\272D';}
+li.s-272E:before{content: '\272E';}
+li.s-2606:before{content: '\2606';}
+li.s-272A:before{content: '\272A';}
+li.s-2721:before{content: '\2721';}
+li.s-272F:before{content: '\272F';}
+li.s-2735:before{content: '\2735';}
+li.s-2736:before{content: '\2736';}
+li.s-2738:before{content: '\2738';}
+li.s-2739:before{content: '\2739';}
+li.s-273A:before{content: '\273A';}
+li.s-2731:before{content: '\2731';}
+li.s-2732:before{content: '\2732';}
+li.s-2734:before{content: '\2734';}
+li.s-2733:before{content: '\2733';}
+li.s-273B:before{content: '\273B';}
+li.s-273D:before{content: '\273D';}
+li.s-274B:before{content: '\274B';}
+li.s-2746:before{content: '\2746';}
+li.s-2744:before{content: '\2744';}
+li.s-2745:before{content: '\2745';}
+
+li.s-263B:before{content: '\263B';}
+li.s-263A:before{content: '\263A';}
+li.s-2639:before{content: '\2639';}
+li.s-2709:before{content: '\2709';}
+li.s-260E:before{content: '\260E';}
+li.s-260F:before{content: '\260F';}
+li.s-2706:before{content: '\2706';}
+li.s-FFFD:before{content: '\FFFD';}
+li.s-2601:before{content: '\2601';}
+li.s-2602:before{content: '\2602';}
+li.s-2744:before{content: '\2744';}
+li.s-2603:before{content: '\2603';}
+li.s-2748:before{content: '\2748';}
+li.s-273F:before{content: '\273F';}
+li.s-2740:before{content: '\2740';}
+li.s-2741:before{content: '\2741';}
+li.s-2618:before{content: '\2618';}
+li.s-2766:before{content: '\2766';}
+li.s-9749:before{content: '\9749';}
+li.s-2742:before{content: '\2742';}
+li.s-2625:before{content: '\2625';}
+li.s-262E:before{content: '\262E';}
+li.s-262F:before{content: '\262F';}
+li.s-262A:before{content: '\262A';}
+li.s-2624:before{content: '\2624';}
+li.s-2704:before{content: '\2704';}
+li.s-2702:before{content: '\2702';}
+li.s-2638:before{content: '\2638';}
+li.s-2693:before{content: '\2693';}
+li.s-2623:before{content: '\2623';}
+li.s-26A0:before{content: '\26A0';}
+li.s-26A1:before{content: '\26A1';}
+li.s-2622:before{content: '\2622';}
+li.s-267B:before{content: '\267B';}
+li.s-267F:before{content: '\267F';}
+li.s-2620:before{content: '\2620';}
+
+li.s-261C:before{content: '\261C';}
+li.s-261E:before{content: '\261E';}
+li.s-261D:before{content: '\261D';}
+li.s-261F:before{content: '\261F';}
+li.s-270C:before{content: '\270C';}
+li.s-270D:before{content: '\270D';}
+li.s-270E:before{content: '\270E';}
+li.s-2710:before{content: '\2710';}
+li.s-270F:before{content: '\270F';}
+li.s-2711:before{content: '\2711';}
+li.s-2712:before{content: '\2712';}
+
+li.s-263D:before{content: '\263D';}
+li.s-263E:before{content: '\263E';}
+li.s-2642:before{content: '\2642';}
+li.s-2640:before{content: '\2640';}
+li.s-263F:before{content: '\263F';}
+li.s-2641:before{content: '\2641';}
+li.s-2643:before{content: '\2643';}
+li.s-2644:before{content: '\2644';}
+li.s-2645:before{content: '\2645';}
+li.s-2646:before{content: '\2646';}
+li.s-2647:before{content: '\2647';}
+
+li.s-2648:before{content: '\2648';}
+li.s-2649:before{content: '\2649';}
+li.s-264A:before{content: '\264A';}
+li.s-264B:before{content: '\264B';}
+li.s-264C:before{content: '\264C';}
+li.s-264D:before{content: '\264D';}
+li.s-264E:before{content: '\264E';}
+li.s-264F:before{content: '\264F';}
+li.s-2651:before{content: '\2651';}
+li.s-2652:before{content: '\2652';}
+li.s-2653:before{content: '\2653';}
+
+li.s-265A:before{content: '\265A';}
+li.s-265B:before{content: '\265B';}
+li.s-265C:before{content: '\265C';}
+li.s-265D:before{content: '\265D';}
+li.s-265E:before{content: '\265E';}
+li.s-265F:before{content: '\265F';}
+li.s-2654:before{content: '\2654';}
+li.s-2655:before{content: '\2655';}
+li.s-2656:before{content: '\2656';}
+li.s-2657:before{content: '\2657';}
+li.s-2658:before{content: '\2658';}
+li.s-2659:before{content: '\2659';}
+li.s-2660:before{content: '\2660';}
+li.s-2663:before{content: '\2663';}
+li.s-2665:before{content: '\2665';}
+li.s-2666:before{content: '\2666';}
+li.s-2664:before{content: '\2664';}
+li.s-2667:before{content: '\2667';}
+li.s-2661:before{content: '\2661';}
+li.s-2662:before{content: '\2662';}
+
+li.s-0391:before{content: '\0391';}
+li.s-0392:before{content: '\0392';}
+li.s-0393:before{content: '\0393';}
+li.s-0394:before{content: '\0394';}
+li.s-0395:before{content: '\0395';}
+li.s-0396:before{content: '\0396';}
+li.s-0397:before{content: '\0397';}
+li.s-0398:before{content: '\0398';}
+li.s-0399:before{content: '\0399';}
+li.s-039A:before{content: '\039A';}
+li.s-039B:before{content: '\039B';}
+li.s-039C:before{content: '\039C';}
+li.s-039D:before{content: '\039D';}
+li.s-039E:before{content: '\039E';}
+li.s-039F:before{content: '\039F';}
+li.s-03A0:before{content: '\03A0';}
+li.s-03A1:before{content: '\03A1';}
+li.s-03A3:before{content: '\03A3';}
+li.s-03A4:before{content: '\03A4';}
+li.s-03A5:before{content: '\03A5';}
+li.s-03A6:before{content: '\03A6';}
+li.s-03A7:before{content: '\03A7';}
+li.s-03A8:before{content: '\03A8';}
+li.s-03A9:before{content: '\03A9';}
