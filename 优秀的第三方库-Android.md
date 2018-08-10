@@ -35,11 +35,11 @@
 |[MaterialAbout](https://github.com/jrvansuita/MaterialAbout)| |<center><img src="https://github.com/jrvansuita/MaterialAbout/raw/master/images/screenshots/dark.jpg" width="25%"/></center><center><img src="https://github.com/jrvansuita/MaterialAbout/raw/master/images/screenshots/light.jpg" width="25%"/></center>|
 |[Shortbread](https://github.com/MatthiasRobbers/shortbread)| |<center><img src="https://github.com/MatthiasRobbers/shortbread/raw/master/sample.png" width="25%"/></center>|
 |[ason](https://github.com/afollestad/ason)| | |
-|FancyDialog](https://github.com/geniusforapp/fancyDialog)| |<center><img src="https://raw.githubusercontent.com/ahmadnajar10/fancyDialog/master/device-2017-03-08-171007.png" width="50%"/></center>|
+|[FancyDialog](https://github.com/geniusforapp/fancyDialog)| |<center><img src="https://raw.githubusercontent.com/ahmadnajar10/fancyDialog/master/device-2017-03-08-171007.png" width="50%"/></center>|
 |[StatusLayout](https://github.com/chenpengfei88/StatusLayout)| 让你的布局飞起来|<center><img src="https://github.com/chenpengfei88/StatusLayout/raw/master/app/src/main/res/drawable/hao.gif" width="50%"/></center>|
 |[uCrop](https://github.com/Yalantis/uCrop)|强大的图片裁剪库|<center><img src="https://github.com/Yalantis/uCrop/blob/master/preview.gif?raw=true" width="50%"/></center>|
 |[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)|开发人员不得不收集的工具类 | |
-|WaveSideBar](https://github.com/Solartisan/WaveSideBar)| |<center><img src="https://github.com/Solartisan/WaveSideBar/raw/master/preview/simple.gif" width="25%"/></center>|
+|[WaveSideBar](https://github.com/Solartisan/WaveSideBar)| |<center><img src="https://github.com/Solartisan/WaveSideBar/raw/master/preview/simple.gif" width="25%"/></center>|
 |[EasyForm](https://github.com/emmasuzuki/EasyForm)| |<center><img src="https://raw.githubusercontent.com/emmasuzuki/EasyForm/master/demo1.gif" width="25%"/></center><center><img src="https://raw.githubusercontent.com/emmasuzuki/EasyForm/master/demo2.gif" width="25%"/></center>|
 |[fab-speed-dial](https://github.com/yavski/fab-speed-dial)| |<center><img src="https://camo.githubusercontent.com/67f8b636d4cd6ee1dfcb8e4c68d2f04ad3ce8560/687474703a2f2f796176736b692e6769746875622e696f2f6661622d73706565642d6469616c2f73616d706c652d30312e676966" width="25%"/></center>|
 |[FloatViewFinal](https://github.com/pengjianbo/FloatViewFinal)| |<center><img src="https://github.com/pengjianbo/FloatViewFinal/raw/master/images/screenshot0.png" width="25%"/></center>|
